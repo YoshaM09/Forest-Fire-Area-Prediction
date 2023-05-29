@@ -1,4 +1,6 @@
 # Forest-Fire-Area-Prediction
+![FF](https://github.com/YoshaM09/Forest-Fire-Area-Prediction/assets/105993890/ee2ba3b2-0af6-4896-ac15-479e3a8e90f1)
+
 ### Purpose:
 
  To create a regression model to predict the area burned in hectares
