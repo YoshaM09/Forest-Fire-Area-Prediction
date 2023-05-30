@@ -1,5 +1,5 @@
 # Forest-Fire-Area-Prediction
-![Picture11](https://github.com/YoshaM09/Forest-Fire-Area-Prediction/assets/105993890/a7e0fe37-317b-4191-a2ee-31afb95ab57f)
+<img width="327" alt="Screenshot 2023-05-30 at 8 57 17 AM" src="https://github.com/YoshaM09/Forest-Fire-Area-Prediction/assets/105993890/f4dbcc36-ff3b-44f3-b2ff-2d8967cf86a0">
 
 ### Purpose:
 
